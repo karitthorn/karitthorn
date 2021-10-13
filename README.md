@@ -12,12 +12,12 @@ I like coding and robotics. Nice to meet you.
 
 ![night](https://upload.wikimedia.org/wikipedia/commons/b/b3/Sanfran-night.jpg)
 
-##🌟 Get in touch
+## 🌟 Get in touch
 
 👉 email : karitthorn@gmail.com
 👉 [instagram](https://www.instagram.com/karitthorn/)
 
-##🌝 Quotes
+## 🌝 Quotes
 >"Live as if you were to die tomorrow.Learn as if you were to live forever"
 >
 >*Mahatma Gandhi*
