@@ -4,7 +4,7 @@
 🙋‍♂️Hello, my name is Karitthorn Bamrungpipattanporn. I come from Thailand
 I like coding and robotics. Nice to meet you.
 
-🙋‍สวัสดีครัย ผม คริษฐ์ธร เป็นนักเรียน สนใจในด้าน coding เเละ robot
+🙋‍สวัสดีครับ ผม คริษฐ์ธร เป็นนักเรียน สนใจในด้าน coding เเละ robot
 
 ⛳ I'm currently studying at high school.
 
