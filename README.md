@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi I'm Karitthorn, Welcome to my Github profile 👋
+# You can call me "Tak".✨
 
-<!--
-**karitthorn/karitthorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♂️Hello, my name is Karitthorn Bamrungpipattanporn. I come from Thailand
+I like coding and robotics. Nice to meet you.
 
-Here are some ideas to get you started:
+🙋‍สวัสดีครัย ผม คริษฐ์ธร เป็นนักเรียน สนใจในด้าน coding เเละ robot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⛳ I'm currently studying at high school.
+
+🌱 I'm currently learning python, arduino.
+
+![night](https://upload.wikimedia.org/wikipedia/commons/b/b3/Sanfran-night.jpg)
+
+##🌟 Get in touch
+
+👉 email : karitthorn@gmail.com
+👉 [instagram](https://www.instagram.com/karitthorn/)
+
+##🌝 Quotes
+>"Live as if you were to die tomorrow.Learn as if you were to live forever"
+>
+>*Mahatma Gandhi*
+
+
+
