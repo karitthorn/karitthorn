@@ -22,7 +22,7 @@ I like coding and robotics. Nice to meet you.
 >"Live as if you were to die tomorrow.Learn as if you were to live forever"
 >
 >*Mahatma Gandhi*
-## Stats
+## 🪐Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karitthorn&theme=radical)
 
 
