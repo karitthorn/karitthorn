@@ -8,7 +8,7 @@ I like coding and robotics. Nice to meet you.
 
 ⛳ I'm currently studying at high school.
 
-🌱 I'm currently learning python, arduino.
+🌱 I'm currently learning python, arduino,blockchain.
 
 ![night](https://upload.wikimedia.org/wikipedia/commons/b/b3/Sanfran-night.jpg)
 
