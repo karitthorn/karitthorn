@@ -6,9 +6,9 @@ I like coding and robotics. Nice to meet you.
 
 🙋‍สวัสดีครับ ผม คริษฐ์ธร เป็นนักเรียน สนใจในด้าน coding เเละ robot
 
-⛳ I'm currently studying at high school.
 
-🌱 I'm currently learning python, arduino,blockchain.
+
+🌱 I'm currently learning python, arduino,blockchain,Web developer.
 
 ![night](https://upload.wikimedia.org/wikipedia/commons/b/b3/Sanfran-night.jpg)
 
