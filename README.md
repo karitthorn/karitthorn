@@ -1,7 +1,7 @@
 # Hi I'm Karitthorn, Welcome to my Github profile 👋
 # You can call me "Tak".✨
 
-🙋‍♂️Hello, my name is Karitthorn Bamrungpipattanporn. I come from Thailand
+🙋‍♂️Hello, my name is Karitthorn. I come from Thailand
 .Nice to meet you.
 
 <h3 align="left">Languages and Tools:</h3>
