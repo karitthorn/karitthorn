@@ -2,9 +2,7 @@
 # You can call me "Tak".✨
 
 🙋‍♂️Hello, my name is Karitthorn Bamrungpipattanporn. I come from Thailand
-I like coding and robotics. Nice to meet you.
-
-🙋‍สวัสดีครับ ผม คริษฐ์ธร เป็นนักเรียน สนใจในด้าน coding เเละ robot
+Nice to meet you.
 
 
 
