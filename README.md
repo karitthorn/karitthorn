@@ -17,6 +17,8 @@
 
 👉 [instagram](https://www.instagram.com/karitthorn/)
 
+👉 [medium](https://medium.com/@karitthorn)
+
 ## 🌝 Quotes
 >"Live as if you were to die tomorrow.Learn as if you were to live forever"
 >
