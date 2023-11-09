@@ -10,6 +10,7 @@
 
 🌱 I'm currently learning python, Web developer.
 
+
 [![An image of @karitthorn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karitthorn)](https://holopin.io/@karitthorn)
 
 ## 🌟 Get in touch
