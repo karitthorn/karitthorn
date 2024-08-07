@@ -15,9 +15,6 @@
 
 ## 🌟 Get in touch
 
-👉 email : karitthorn@gmail.com
-
-👉 [instagram](https://www.instagram.com/karitthorn/)
 
 👉 [medium](https://medium.com/@karitthorn)
 
