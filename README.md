@@ -22,8 +22,7 @@
 >"Live as if you were to die tomorrow.Learn as if you were to live forever"
 >
 >*Mahatma Gandhi*
-## 🪐Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karitthorn&theme=radical)
+
 
 
 
